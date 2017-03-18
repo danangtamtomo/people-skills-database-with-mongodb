@@ -1,0 +1,20 @@
+{
+  "name": "people-skills-database-with-mongodb",
+  "version": "1.0.0",
+  "description": "Create people skills database with mongodb and MVC structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danangtamtomo/people-skills-database-with-mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danangtamtomo/people-skills-database-with-mongodb/issues"
+  },
+  "homepage": "https://github.com/danangtamtomo/people-skills-database-with-mongodb#readme"
+}
