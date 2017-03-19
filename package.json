@@ -4,6 +4,7 @@
   "description": "Create people skills database with mongodb and MVC structure",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon ./app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/danangtamtomo/people-skills-database-with-mongodb/issues"
   },
-  "homepage": "https://github.com/danangtamtomo/people-skills-database-with-mongodb#readme"
+  "homepage": "https://github.com/danangtamtomo/people-skills-database-with-mongodb#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.25",
+    "mongoose": "^4.9.0"
+  }
 }
