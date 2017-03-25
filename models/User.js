@@ -7,7 +7,7 @@ var userSchema = new Schema({
   name: String,
   phone: String,
   skills: [{ type: Schema.Types.ObjectId, ref: 'Skill' }]
-},{
+}, {
   timestamps: true
 })
 

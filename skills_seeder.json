@@ -1,23 +1,15 @@
 [
   {
-    "_id": "1",
     "skill_name": "Javascript",
-    "quality": "7",
-    "user": "1"
+    "quality": "7"
   },{
-    "_id": "2",
     "skill_name": "PHP",
-    "quality": "7",
-    "user": "1"
+    "quality": "7"
   },{
-    "_id": "3",
     "skill_name": "HTML",
-    "quality": "8",
-    "user": "2"
+    "quality": "8"
   },{
-    "_id": "4",
     "skill_name": "CSS",
-    "quality": "5",
-    "user": "2"
+    "quality": "5"
   }
 ]

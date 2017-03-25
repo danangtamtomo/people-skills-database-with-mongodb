@@ -1,31 +1,10 @@
 [
   {
     "name": "Danang Aji Tamtomo",
-    "phone": "085846020358",
-    "skills": [
-      {
-        "skill_name": "Javascript",
-        "quality": "7",
-      },
-      {
-        "skill_name": "PHP",
-        "quality": "7",
-        "user": "1"
-      }
-    ]
+    "phone": "085846020358"
   },
   {
     "name": "Aji Tamtomo Danang",
-    "phone": "08574868395829",
-    "skills": [
-      {
-        "skill_name": "HTML",
-        "quality": "8"
-      },
-      {
-        "skill_name": "CSS",
-        "quality": "5"
-      }
-    ]
+    "phone": "08574868395829"
   }
 ]

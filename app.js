@@ -13,14 +13,10 @@ mongoDbConnection.once('open', function () {
   console.log('Mongodb is connected')
 })
 
-
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: false }));
-
+app.use(bodyParser.json())
+app.use(bodyParser.urlencoded({ extended: false }))
 
 app.use('/user', users)
 app.use('/skill', skills)
 
-
 app.listen(3000)
-
